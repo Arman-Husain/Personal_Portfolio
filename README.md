@@ -80,7 +80,7 @@ Open your browser at http://localhost:3000.
 
 **Arman Husain**  
 🌍 India  
-🎓 Frontend Developer Intern at SkillCraft  
+🎓 Pursuing B.Tech in (CSE) aiml specilization   
 💬 Passionate about clean UI, animations, and full-stack web apps.  
 ✉️ armanhusain@example.com  
 📸 Building beautiful, interactive web experiences one line at a time.
