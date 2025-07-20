@@ -125,16 +125,16 @@ const HeroContent = () => {
                 About Me
               </h2>
               <p className="text-sm leading-6 text-gray-300">
-                Hi, I'm <strong>Arman Husain</strong> 👋
+                Hi, I&apos;m <strong>Arman Husain</strong> 👋
                 <br />
                 <br />
                 I’m a second-year B.Tech Computer Science student with a strong passion for web development and open-source collaboration. Over the past few months,
                 I’ve been learning full stack development, starting with HTML, CSS, and JavaScript — and now exploring React and backend technologies.
 
                 I enjoy building real-world projects that help me apply what I learn and solve practical problems.
-                I'm also preparing to contribute to open-source communities and actively working toward participating in Google Summer of Code (GSoC).
+                I&apos;m also preparing to contribute to open-source communities and actively working toward participating in Google Summer of Code (GSoC).
 
-                In the coming months, I’ll be focusing more on Data Structures & Algorithms to sharpen my problem-solving skills and prepare for future internships and placements.
+                In the coming months, I&apos;ll be focusing more on Data Structures & Algorithms to sharpen my problem-solving skills and prepare for future internships and placements.
 
                 Currently Exploring:
                 • Full Stack Web Development
@@ -146,7 +146,7 @@ const HeroContent = () => {
                 • Internship opportunities in frontend/web development
                 • Collaborating with other developers and learning through real-world work
 
-                If you're working on something exciting or looking to collaborate, feel free to connect!
+                If you&apos;re working on something exciting or looking to collaborate, feel free to connect!
               </p>
             </motion.div>
           </motion.div>

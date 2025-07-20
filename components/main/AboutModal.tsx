@@ -22,11 +22,11 @@ const AboutModal: React.FC<AboutModalProps> = ({ isOpen, onClose }) => {
           About Me
         </h2>
         <p className="text-sm leading-6 text-gray-300">
-          Hi, I'm <strong>Arman Husain</strong> 👋 — a passionate Frontend Developer currently pursuing my B.Tech.
+          Hi, I&apos;m <strong>Arman Husain</strong> 👋 — a passionate Frontend Developer currently pursuing my B.Tech.
           I love building beautiful, responsive user interfaces using modern technologies like React, Tailwind CSS, and Next.js.
           <br />
           <br />
-          I'm always eager to learn new tools and contribute to meaningful projects.
+          I&apos;m always eager to learn new tools and contribute to meaningful projects.
         </p>
       </div>
     </div>

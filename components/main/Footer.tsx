@@ -15,7 +15,7 @@ const Footer = ({ setShowModal }: { setShowModal: (val: boolean) => void }) => {
   <h3 className="text-lg font-bold bg-gradient-to-r from-purple-500 to-cyan-400 bg-clip-text text-transparent">
     About
   </h3>
-  <p className="mt-2 text-sm">Hi, I'm Arman Husain</p>
+  <p className="mt-2 text-sm">Hi, I&apos;m Arman Husain</p>
   <p className="text-sm">📞 +91 9057212878</p>
   <p className="text-sm">📧 armanhussain681@gmail.com</p>
   <p className="text-xs text-gray-400 italic mt-2">
